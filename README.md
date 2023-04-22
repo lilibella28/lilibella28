@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lili</h1>
--🔭 I’m currently working on [Picome React](https://github.com/lilibella28/PicoMe-React-)
+
+
+- 🔭 I’m currently working on [Picome React](https://github.com/lilibella28/PicoMe-React-)
 
 - 👨‍💻 All of my projects are available at [lilibella28.github.io/PortFolio/](lilibella28.github.io/PortFolio/)
 
