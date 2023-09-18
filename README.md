@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **lilimontano58@gmail.com**
 
-- 📄 Know about my experiences [https://raw.githubusercontent.com/lilibella28/PortFolio/main/src/Assets/LilibehtAMontanoResumePortFolio.pdf](https://raw.githubusercontent.com/lilibella28/PortFolio/main/src/Assets/LilibehtAMontanoResumePortFolio.pdf)
+- 📄 Know about my experiences [Resume](https://raw.githubusercontent.com/lilibella28/PortFolio/main/src/Assets/LilibehtAMontanoResumePortFolio.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
