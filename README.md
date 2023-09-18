@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lili</h1>
 
 
-- 🔭 I’m currently working on C++ Programming -[OOP Music Player](https://github.com/lilibella28/OOP-Music-Player#user-stories)
+- 🔭 I’m currently working on C++ Programming-[OOP Music Player](https://github.com/lilibella28/OOP-Music-Player#user-stories)
 
 - 👨‍💻 All of my projects are available at [lilibella28.github.io/PortFolio/](lilibella28.github.io/PortFolio/)
 
