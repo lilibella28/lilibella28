@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [lilibella28.github.io/PortFolio/](lilibella28.github.io/PortFolio/)
 
-- 💬 Ask me about **Javascript, React, Interview**
+- 💬 Ask me about **C++, Javascript, React, Interview**
 
 - 📫 How to reach me **lilimontano58@gmail.com**
 
