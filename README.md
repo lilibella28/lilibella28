@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on C++ Programming-[OOP Music Player](https://github.com/lilibella28/OOP-Music-Player#user-stories)
 
-- 👨‍💻 All of my projects are available at [Portfolio](lilibella28.github.io/PortFolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/lilibella28/PortFolio)
 
 - 💬 Ask me about **C++, Javascript, React, Interview**
 
