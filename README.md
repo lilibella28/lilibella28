@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lili</h1>
-<h1 align="center"> A computer science Student at the University of Maryland, Baltimore County </h1>
+<p align="left"> A computer science Student at the University of Maryland, Baltimore County </p>
 
 
 - 🔭 I’m currently working on C++ Programming-[PlayListPro](https://github.com/lilibella28/OOP-Music-Player#user-stories)
